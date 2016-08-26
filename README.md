@@ -1,5 +1,3 @@
-# nodeAPIStarter
-[![Build Status](https://travis-ci.org/wordyallen/nodeAPIStarter.svg?branch=master)](https://travis-ci.org/wordyallen/nodeAPIStarter)
 
 ## Prereqs
 - [ ] Get mongodb

@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/leobeltran/nodeAPI.svg?branch=master)](https://travis-ci.org/leobeltran/nodeAPI)
 
 ## Prereqs
 - [ ] Get mongodb
